@@ -11,7 +11,7 @@ Frontend Developer
 - 🎯 Goals: Contribute more to Open Source projects
 - ⚡ I love to play games.
 - 📫 How to reach me:
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)]([(https://www.linkedin.com/in/yeabsra-alemayehu-528534196/])
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)]([https://www.linkedin.com/in/yeabsra-alemayehu-528534196/])
   [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&style=for-the-badge)]([https://t.me/yeablid])
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge)](mailto:yeabsraalemayehu592@gmail.com)
 
