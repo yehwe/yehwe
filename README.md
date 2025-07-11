@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 
 Hi, I'm Yeabsra 👋
@@ -8,7 +8,7 @@ Frontend Developer
 - 🧭 I’m currently studying Electrical and Computer Engineering at AASTU
 - 💬 Ask me about anything tech related, I am happy to help!
 - 🧑‍🤝‍🧑 I’m looking to collaborate on web apps, charity projects, and space science initiatives
-- 🎯 Goals: Contribute more to Open Source projects
+- 🎯 Goals: Contribute to practical projects
 - ⚡ I love to play games.
 - 📫 How to reach me:
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)]([https://www.linkedin.com/in/yeabsra-alemayehu-528534196/])
