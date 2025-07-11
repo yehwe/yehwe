@@ -15,7 +15,6 @@ Frontend Developer
   [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&style=for-the-badge)]([https://t.me/yeablid])
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge)](mailto:yeabsraalemayehu592@gmail.com)
 
----
 
 ### Languages and Tools:
 
@@ -29,6 +28,6 @@ Frontend Developer
 </p>
 
 
----
+
 
 
