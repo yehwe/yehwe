@@ -3,11 +3,11 @@
 
 Hi, I'm Yeabsra 👋
 
-Frontend Developer
+
 
 - 🧭 I’m currently studying Electrical and Computer Engineering at AASTU
 - 💬 Ask me about anything tech related, I am happy to help!
-- 🧑‍🤝‍🧑 I’m looking to collaborate on web apps, charity projects, and space science initiatives
+- 🧑‍🤝‍🧑 I’m looking to collaborate on embedded systems, web apps, charity projects, and space science initiatives
 - 🎯 Goals: Contribute to practical projects
 - ⚡ I love to play games.
 - 📫 How to reach me:
