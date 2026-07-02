@@ -5,11 +5,10 @@ Hi, I'm Yeabsra 👋
 
 
 
-- 🧭 I’m currently studying Electrical and Computer Engineering at AASTU
+- 🧭 An Electrical and Computer Engineering graduate passionate about Embedded Systems
 - 💬 Ask me about anything tech related, I am happy to help!
-- 🧑‍🤝‍🧑 I’m looking to collaborate on embedded systems, web apps, charity projects, and space science initiatives
-- 🎯 Goals: Contribute to practical projects
-- ⚡ I love to play games.
+- 🧑‍🤝‍🧑 I’m looking to collaborate on embedded systems, IoT, Edge AI, web apps, charity projects, and space science initiatives
+- 🎯 Goals: Designing intelligent low-power devices that solve real-world problems 
 - 📫 How to reach me:
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)]([https://www.linkedin.com/in/yeabsra-alemayehu-528534196/])
   [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&style=for-the-badge)]([https://t.me/yeablid])
