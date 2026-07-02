@@ -6,7 +6,6 @@ Hi, I'm Yeabsra 👋
 
 
 - 🧭 An Electrical and Computer Engineering graduate passionate about Embedded Systems
-- 💬 Ask me about anything tech related, I am happy to help!
 - 🧑‍🤝‍🧑 I’m looking to collaborate on embedded systems, IoT, Edge AI, web apps, charity projects, and space science initiatives
 - 🎯 Goals: Designing intelligent low-power devices that solve real-world problems 
 - 📫 How to reach me:
